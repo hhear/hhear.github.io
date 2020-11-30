@@ -1,0 +1,24 @@
+---
+title: "Documentation and Resources"
+---
+
+The following documents serve to orient users to the HHEAR Data Repository. 
+
+## Resource Guides
+
+Interpreting Download Files: Guide to Understanding Column Headers
+
+<a href="https://hhear.github.io/pdfs/colheader_guide.pdf" target="_blank"> UserGuide1.</a>
+
+Master Codebook: Complete listing of codes and labels used within generated data files
+
+<a href="https://hhear.github.io/pdfs/master_codebook1.0.pdf" target="_blank"> UserGuide2. </a>
+
+Analyte Codes: Complete listing of analytes, abbreviations and common units used within the HHEAR Data Repository
+
+<a href="https://hhear.github.io/pdfs/analyte_codes.pdf" target="_blank"> UserGuide3. </a>
+
+
+
+
+

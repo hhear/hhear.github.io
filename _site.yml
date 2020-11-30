@@ -5,7 +5,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Key Terms and Definitions"
+      href: keyterms.html
+    - text: "Documentation"
+      href: helpdocs.html
     - text: "About HHEAR"
       href: about.html
-      
+  
+output:
+  html_document:
+    theme: lumen
+   
+  
   
