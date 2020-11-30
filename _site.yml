@@ -1,0 +1,11 @@
+name: "hhear-website"
+output_dir: "."
+navbar:
+  title: "HHEAR Data Repository"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About HHEAR"
+      href: about.html
+      
+  

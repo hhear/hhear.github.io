@@ -1,0 +1,9 @@
+---
+title: "About HHEAR"
+---
+
+The Human Health Exposure Analysis Resource, HHEAR, is funded by the National Institute of Environmental Health Sciences, in partnership with the National Cancer Institute, the National Heart, Lung, and Blood Institute, and the NIH Environmental Influences on Child Health Outcomes (ECHO) Program. HHEAR seeks to advance our understanding about how the environment impacts human health and disease through the life course by promoting the characterization of the totality of human environmental exposures called the exposome. HHEAR will provide health researchers access to state-of-the-art laboratory analysis of environmental exposures in both biological and environmental matrices. HHEAR also provides expert consultation on study design, feasibility, and analysis. The exposures measured by HHEAR will cover the breadth of the exposome through both large-scale targeted and untargeted analysis.
+
+The HHEAR Data Center at the Icahn School of Medicine at Mount Sinai was established by NIEHS to provide services for both HHEAR researchers and the broader scientific community. The HHEAR Data Center assists HHEAR researchers with issues of study design and performs statistical analyses. We also create semantic resources to promote harmonizability across studies.
+
+To benefit the broader research community, the HHEAR Data Center has created a public data repository that houses harmonized deidentified data from all studies accepted into the CHEAR and HHEAR program that have passed the embargo period. The goal of this repository is to promote the secondary analysis of pooled environmental health data by providing data in a manner that is findable, accessible, interoperable and reusable. The repository is searchable by a number of features and users will be able to compile and download customized datasets from CHEAR and HHEAR research studies.

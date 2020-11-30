@@ -1,0 +1,18 @@
+---
+title: "HHEAR Data Repository"
+---
+
+## Welcome to the HHEAR Data Repository
+
+
+
+### Accessing the Repository
+
+If you already have a HHEAR account, click [here](https://hadatac-web.mssm.edu/hadatac/login) to access the Repository. 
+
+If you need to create and register your HHEAR account, click [here](https://hheardatacenter.mssm.edu/login.asp). After creating your HHEAR account, you will receive an email inviting you to register and gain access to the Repository.
+
+
+### Support or Contact
+
+Need additional assistance?  [Contact support](mailto:hhearsupport@mssm.edu) 
