@@ -12,7 +12,7 @@ Interpreting Download Files: Guide to Understanding Column Headers
 
 Master Codebook: Complete listing of codes and labels used within generated data files
 
-<a href="https://hhear.github.io/pdfs/master_codebook1.0.pdf" target="_blank"> UserGuide2. </a>
+<a href="https://hhear.github.io/pdfs/master_codebook_1.pdf" target="_blank"> UserGuide2. </a>
 
 Analyte Codes: Complete listing of analytes, abbreviations and common units used within the HHEAR Data Repository
 
