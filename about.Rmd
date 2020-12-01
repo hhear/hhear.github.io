@@ -10,7 +10,7 @@ More information about HHEAR can be found [here](https://hhearprogram.org)
 
 The HHEAR Data Center at the Icahn School of Medicine at Mount Sinai was established by NIEHS to provide services for both HHEAR researchers and the broader scientific community. The HHEAR Data Center assists HHEAR researchers with issues of study design and performs statistical analyses. We also create semantic resources to promote harmonizability across studies.
 
-More information about the HHEAR Data Center can be found [here](hheardatacenter.mssm.edu)
+More information about the HHEAR Data Center can be found [here](https://hheardatacenter.mssm.edu)
 
 ***
 
