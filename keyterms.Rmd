@@ -18,6 +18,11 @@ For each study, we map study visits to their lifecourse stage. This enables sear
 
 For example, a study that has 2 study visits within Childhood would use the time periods 'Childhood-Baseline' and 'Childhood-Follow-up'
 
+### Sample Types Represented within the Repository
+
+<img src="images/SampleTypes.png" style="width:75%">
+
+
 ### Key Terms and Definitions used within the Repository
 
 <img src="images/keyterms.png" style="width:75%">
