@@ -8,21 +8,23 @@ The following documents serve to orient users to the HHEAR Data Repository.
 
 Interpreting Download Files: Guide to Understanding Column Headers
 
-<a href="https://hhear.github.io/pdfs/colheader_guide.pdf" target="_blank"> UserGuide1.</a>
+<a href="https://hhear.github.io/pdfs/colheader_guide.pdf" target="_blank"> UserGuide1:ColHeaders.</a>
 
-Master Codebook: Complete listing of codes and labels used within generated data files
+Master Codebook: Complete listing of codes and labels used within generated data files, organized by feature
 
-<a href="https://hhear.github.io/pdfs/master_codebook_1.pdf" target="_blank"> UserGuide2. </a>
+<a href="https://hhear.github.io/pdfs/master_codebook_10112021.csv" target="_blank"> UserGuide2:Codebook. </a>
 
 Analyte Codes: Complete listing of analytes, abbreviations and common units used within the HHEAR Data Repository
 
-<a href="https://hhear.github.io/pdfs/analyte_codes.pdf" target="_blank"> UserGuide3. </a>
+<a href="https://hhear.github.io/pdfs/analyte_codes.pdf" target="_blank"> UserGuide3:Analytes. </a>
 
 *** 
 
 ### Demonstration Videos
 
-Recording of ISEE Webinar
+Recording of ISEE Webinar-December 2020
+
+*Note: The User Interface has changed slightly since this webinar occurred. It should still be useful for an overview of the Repository. A new demonstration will be uploaded by the end of 2021.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zpEKX4Z8k5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
