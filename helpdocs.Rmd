@@ -8,15 +8,17 @@ The following documents serve to orient users to the HHEAR Data Repository.
 
 Interpreting Download Files: Guide to Understanding Column Headers
 
-<a href="https://hhear.github.io/pdfs/colheader_guide.pdf" target="_blank"> UserGuide1:ColHeaders.</a>
+<a href="https://hhear.github.io/pdfs/colheader_guide.pdf" target="_blank"> Guide to Column Headers.</a>
 
 Master Codebook: Complete listing of codes and labels used within generated data files, organized by feature
 
-<a href="https://hhear.github.io/pdfs/master_codebook_10112021.csv" target="_blank"> UserGuide2:Codebook. </a>
+<a href="https://hhear.github.io/pdfs/master_codebook_10112021.csv" target="_blank"> Master Codebook in CSV </a>
 
 Analyte Codes: Complete listing of analytes, abbreviations and common units used within the HHEAR Data Repository
 
-<a href="https://hhear.github.io/pdfs/analyte_codes.pdf" target="_blank"> UserGuide3:Analytes. </a>
+<a href="https://hhear.github.io/pdfs/analyte_codes.pdf" target="_blank"> Analyte Codes in PDF. </a>
+
+<a href="https://hhear.github.io/pdfs/analyte_codes.csv" target="_blank"> Analyte Codes in CSV. </a>
 
 *** 
 

@@ -1,0 +1,356 @@
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Alkyl phosphate pesticide metabolites,6-chloronicotinic acid,CINA6,ng/mL
+Alkyl phosphate pesticide metabolites,diethyldithiophosphate,DEDP,ng/mL
+Alkyl phosphate pesticide metabolites,diethylphosphate,DEP,ng/mL
+Alkyl phosphate pesticide metabolites,diethylthiophosphate,DETP,ng/mL
+Alkyl phosphate pesticide metabolites,dimethyldithiophosphate,DMDP,ng/mL
+Alkyl phosphate pesticide metabolites,dimethylphosphate,DMP,ng/mL
+Alkyl phosphate pesticide metabolites,dimethylthiophosphate,DMTP,ng/mL
+Alkyl phosphate pesticide metabolites,4-fluoro-3-phenoxybenzoic acid,FPBA,ng/mL
+Alkyl phosphate pesticide metabolites,3-phenoxybenzoic acid,PBA,ng/mL
+Alkyl phosphate pesticide metabolites,4-nitrophenol,PNP,ng/mL
+Alkyl phosphate pesticide metabolites,"3,5,6-trichloro-2-pyridinol",TCP,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Organochlorine Pesticides,alpha-hexachlorocyclohexane,AHCH,ng/mL
+Organochlorine Pesticides,beta-hexachlorocyclohexane,BHCH,ng/mL
+Organochlorine Pesticides,cis-Chlordane,CCHL,ng/mL
+Organochlorine Pesticides,cis-Nonachlor,CNON,ng/mL
+Organochlorine Pesticides,gamma-hexachlorocyclohexane,GHCH,ng/mL
+Organochlorine Pesticides,Hexachlorobenzene,HCB,ng/mL
+Organochlorine Pesticides,Mirex,MIREX,ng/mL
+Organochlorine Pesticides,"2,4'-DDT",OPDDT,ng/mL
+Organochlorine Pesticides,"4,4'-DDE",PPDDE,ng/mL
+Organochlorine Pesticides,"4,4'-DDT",PPDDT,ng/mL
+Organochlorine Pesticides,trans-Chlordane,TCHL,ng/mL
+Organochlorine Pesticides,trans-Nonachlor,TNON,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Parabens,Butyl paraben,BuPB,ng/mL
+Parabens,Benzyl paraben,BZPB,ng/mL
+Parabens,Ethyl paraben,ETPB,ng/mL
+Parabens,Heptyl paraben,HEPB,ng/mL
+Parabens,Methyl Paraben,MEPB,ng/mL
+Parabens,Propyl paraben,PRPB,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Polychlorinated biphenyls,PCB101,PCB101,ng/mL
+Polychlorinated biphenyls,PCB118,PCB118,ng/mL
+Polychlorinated biphenyls,PCB138,PCB138,ng/mL
+Polychlorinated biphenyls,PCB153,PCB153,ng/mL
+Polychlorinated biphenyls,PCB180,PCB180,ng/mL
+Polychlorinated biphenyls,PCB28,PCB28,ng/mL
+Polychlorinated biphenyls,PCB52,PCB52,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Volatile Organic Compounds,N-Acetyl-S-(2-carbamoylethyl)-L-cysteine,AAMA,pmol/mL
+Volatile Organic Compounds,Mercapturic acids of acrolein and crotonaldehyde,AMA,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(N-methylcarbamoyl)-L-cysteine,AMCC,pmol/mL
+Volatile Organic Compounds,2-Aminothiazoline-4-carboxylic acid,ATCA,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(benzyl)-L-cysteine,BMA,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(n-propyl)-L-cysteine,BPMA,pmol/mL
+Volatile Organic Compounds,Benzene,BZ,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S- (2-carboxyethyl)-L-cysteine,CEMA,pmol/mL
+Volatile Organic Compounds,Chloroform,CFRM,pmol/mL
+Volatile Organic Compounds,Carbon Tetrachloride,CTET,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(2-cyanoethyl)-L-cysteine,CYMA,pmol/mL
+Volatile Organic Compounds,"N-Acetyl-S-(1,2-dichlorovinyl)-L-cysteine",DCVMA12,pmol/mL
+Volatile Organic Compounds,"N-Acetyl-S-(2,2-dichlorovinyl)-L-cysteine",DCVMA22,pmol/mL
+Volatile Organic Compounds,"1,2-Dichloroethane",DE12,pmol/mL
+Volatile Organic Compounds,"N-Acetyl-S- (3,4-dihydroxybutyl)-L-cysteine",DHBMA,pmol/mL
+Volatile Organic Compounds,"N-Acetyl-S-(2,4-dimethylphenyl)-L-cysteine + N-Acetyl-S-(2,5-dimethylphenyl)-L-cysteine + N-Acetyl-S-(3,4-dimethylphenyl)-L-cysteine",DPMA,pmol/mL
+Volatile Organic Compounds,Ethylbenzene,EB,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(2-carbamoyl-2-hydroxyethyl)-L-cysteine,GAMA,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S- (2-hydroxyethyl)-L-cysteine,HEMA2,pmol/mL
+Volatile Organic Compounds,3-Hydroxypropyl-1-methyl mercapturic acid + 3-Hydroxypropyl-2-methyl mercapturic acid + 3-Hydroxypropyl-3-methyl mercapturic acid,HMPMA,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S- (3-hydroxypropyl)-L-cysteine,HPMA,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(2-hydroxypropyl)-L-cysteine,HPMA2,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(3-hydroxypropyl-1-methyl)-L-cysteine,HPMMA,pmol/mL
+Volatile Organic Compounds,Mandelic acid,MA,pmol/mL
+Volatile Organic Compounds,2-Methylhippuric acid,MHA2,pmol/mL
+Volatile Organic Compounds,3-Methylhippuric acid + 4-Methylhippuric acid,MHA34,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(1-hydroxymethyl-2-propenyl)-L-cysteine,MHBMA1,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(2-hydroxy-3-butenyl)-L-cysteine,MHBMA2,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(4-hydroxy-2-buten-1-yl)-L-cysteine,MHBMA3,pmol/mL
+Volatile Organic Compounds,"trans, trans -Muconic acid",MU,pmol/mL
+Volatile Organic Compounds,m-Xylene,MXY,pmol/mL
+Volatile Organic Compounds,o-Xylene,OXY,pmol/mL
+Volatile Organic Compounds,Phenylglyoxylic acid,PGA,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(1-phenyl-2-hydroxyethyl-L-cysteine + N-Acetyl-S-(2-phenyl-2-hydroxyethyl)-L-cysteine,PHEMA,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(phenyl)-L-cysteine,PMA,pmol/mL
+Volatile Organic Compounds,p-Xylene,PXY,pmol/mL
+Volatile Organic Compounds,Mercapturic acid of benzene,SPMA,pmol/mL
+Volatile Organic Compounds,Styrene,STY,pmol/mL
+Volatile Organic Compounds,Tetrachloroethene,TCE,pmol/mL
+Volatile Organic Compounds,N-Acetyl-S-(trichlorovinyl)-L-cysteine,TCVMA,pmol/mL
+Volatile Organic Compounds,Toluene,TOL,pmol/mL
+Volatile Organic Compounds,2-Thioxothiazolidine-4-carboxylic acid,TTCA,pmol/mL
+Volatile Organic Compounds,N-ace-S-(phenl-2-hydxyetl)-L-cys(ng/mL),VOCPHE,pmol/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Brominated Flame Retardants,"2,2',4,4',6-Pentabromodiphenyl ether",BDE100,ng/mL
+Brominated Flame Retardants,"2,2',4,4',5,5'-Hexabromodiphenyl ether",BDE153,ng/mL
+Brominated Flame Retardants,"2,2',4,4',5,6'-Hexabromodiphenyl ether",BDE154,ng/mL
+Brominated Flame Retardants,"2,2',4'-Tribromodiphenyl ether",BDE17,ng/mL
+Brominated Flame Retardants,"2,2',3,4,4',5',6-Heptabromodiphenyl ether",BDE183,ng/mL
+Brominated Flame Retardants,"2,2',3,3',4,4',5,5',6,6'-Decabromodiphenyl ether",BDE209,ng/mL
+Brominated Flame Retardants,"2,4,4'-Tribromodiphenyl ether",BDE28,ng/mL
+Brominated Flame Retardants,"2,2',4,4'-Tetrabromodiphenyl ether",BDE47,ng/mL
+Brominated Flame Retardants,"2,3',4,4'-Tetrabromodiphenyl ether",BDE66,ng/mL
+Brominated Flame Retardants,"2,2',3,4,4'-Pentabromodiphenyl ether",BDE85,ng/mL
+Brominated Flame Retardants,"2,2',4,4',5-Pentabromodiphenyl ether",BDE99,ng/mL
+Brominated Flame Retardants,"2,2',4,4',5,5'-Hexabromobiphenyl",PBB153,ng/mL
+Organophosphorus Flame Retardants,Bis(2-chloroethyl) phosphate,BCETP,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Organophosphorus Flame Retardants,Bis(1-chloro-2-propyl) phosphate,BCPP,ng/mL
+Organophosphorus Flame Retardants,"Bis(1,3-dichloro-2-propyl) phosphate",BDCPP,ng/mL
+Organophosphorus Flame Retardants,Dibutyl phosphate,DBUP,ng/mL
+Organophosphorus Flame Retardants,Dibenzyl phosphate,DBZP,ng/mL
+Organophosphorus Flame Retardants,Di-o-cresylphosphate,DOCP,ng/mL
+Organophosphorus Flame Retardants,Di-p-cresylphosphate,DPCP,ng/mL
+Organophosphorus Flame Retardants,Diphenyl phosphate,DPHP,ng/mL
+Organophosphorus Flame Retardants,"2,3,4,5-tetrabromobenzoic acid",TBBA,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Perfluoroalkyl and Polyfluoroalkyl Substances,Ethyl Perfluorooctane sulfonamido acetic acid,NETFOSAA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,N-methyl Perfluorooctane sulfonamido acetic acid,NMFOSAA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorobutanoic acid,PFBA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorobutanesulfonic acid,PFBS,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorodecanoic acid,PFDA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorooctanesulfonate,PFDODA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perluoroheptanoic acid,PFHPA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorohexanoic acid,PFHXA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorohexane-1-sulphonic acid,PFHXS,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorononanoic acid,PFNA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorooctanoic acid,PFOA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorooctanesulfonic acid,PFOS,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluorooctanesulfonamide,PFOSA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluoro-n-pentanoic acid,PFPEA,ng/mL
+Perfluoroalkyl and Polyfluoroalkyl Substances,Perfluroundecanoic acid,PFUNDA,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Tobacco Metabolites,Anatabine,ANAT,ng/mL
+Tobacco Metabolites,Cotinine (free),COT,ng/mL
+Tobacco Metabolites,Cotinine (total),COTT,ng/mL
+Tobacco Metabolites,Hydroxycotinine (free),HCOT,ng/mL
+Tobacco Metabolites,Hydroxycotinine (total),HCOTT,ng/mL
+Tobacco Metabolites,"Mercapturic acids of 1,3-butadiene - urine",HEMA,ng/mL
+Tobacco Metabolites,Nicotine (free),NIC,ng/mL
+Tobacco Metabolites,Nicotine-N-oxide - urine,NICO,ng/mL
+Tobacco Metabolites,Nicotine (total),NICT,ng/mL
+Tobacco Metabolites,4-(methlynitrosamino)-1-(3-pyridyl)-1-butanol,NNAL,pmol/mL
+Tobacco Metabolites,Nornicotine,NORN,ng/mL
+Tobacco Metabolites,"Total nicotine equivalents - urine, blood",TNIC,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Cytokines and Other Inflammatory Markers,C-reactive protein,CRP,µg/mL
+Cytokines and Other Inflammatory Markers,Fms-related tyrosine kinase 3 ligand,FLT3L,pg/mL
+Cytokines and Other Inflammatory Markers,Granulocyte macrophage Colony stimulating factor,GMCSF,pg/mL
+Cytokines and Other Inflammatory Markers,HAPTOGLOBIN,HAPTOGLOBIN,µg/mL
+Cytokines and Other Inflammatory Markers,Interferon gamma,IFNG,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin 10,IL10,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin12P70,IL12P70,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin13,IL13,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin15,IL15,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin17A,IL17A,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin17E/IL25,IL17EIL25,ng/mL
+Cytokines and Other Inflammatory Markers,Interleukin 17F,IL17F,ng/mL
+Cytokines and Other Inflammatory Markers,Interleukin1B,IL1B,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin2,IL2,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin21,IL21,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin22,IL22,ng/mL
+Cytokines and Other Inflammatory Markers,Interleukin23,IL23,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin27,IL27,ng/mL
+Cytokines and Other Inflammatory Markers,Interleukin28A,IL28A,ng/mL
+Cytokines and Other Inflammatory Markers,Interleukin31,IL31,ng/mL
+Cytokines and Other Inflammatory Markers,Interleukin33,IL33,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin4,IL4,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin5,IL5,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin6,IL6,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin-8,IL8,pg/mL
+Cytokines and Other Inflammatory Markers,Interleukin9,IL9,pg/mL
+Cytokines and Other Inflammatory Markers,Macrophage Inflammatory Protein-3A,MIP3A,pg/mL
+Cytokines and Other Inflammatory Markers,Matrix metalloproteinase 1,MMP1,pg/mL
+Cytokines and Other Inflammatory Markers,Matrix metalloproteinase 10,MMP10,pg/mL
+Cytokines and Other Inflammatory Markers,Matrix metalloproteinase 2,MMP2,pg/mL
+Cytokines and Other Inflammatory Markers,Matrix metalloproteinase 7,MMP7,pg/mL
+Cytokines and Other Inflammatory Markers,Matrix metalloproteinase 9,MMP9,pg/mL
+Cytokines and Other Inflammatory Markers,tissue inhibitor of metalloproteinase 1,TIMP1,pg/mL
+Cytokines and Other Inflammatory Markers,tissue inhibitor of metalloproteinase 2,TIMP2,pg/mL
+Cytokines and Other Inflammatory Markers,Tumor necrosis factor A,TNFA,pg/mL
+Cytokines and Other Inflammatory Markers,Tumor necrosis factor B,TNFB,ng/mL
+Cytokines and Other Inflammatory Markers,Leukotriene E4,LTE4,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Oxidative Stress Markers,8-iso Prostaglandin F2?,F2A8IP,ng/mL
+Oxidative Stress Markers,"2,3-dinor-8-iso Prostaglandin F2?",F2A23D,ng/mL
+Oxidative Stress Markers,5-iso Prostaglandin F2?-VI,F2AVI,ng/mL
+Oxidative Stress Markers,"8,12-iso-Isoprostane-F2?-VI",F2A12I,ng/mL
+Oxidative Stress Markers,8-Hydroxy-2'-deoxyguanosine,OH8DG,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Phenols,Benzophenone-1,BP1,ng/mL
+Phenols,"2,2',4,4'-tetrahydroxybenzophenone",BP2,ng/mL
+Phenols,Benzophenone-3,BP3,ng/mL
+Phenols,"2,2'-dihydroxy-methoxybenzophenone",BP8,ng/mL
+Phenols,Bisphenol A,BPA,ng/mL
+Phenols,"4,4'-(hexafluoroisopropylidene)-dephenol",BPAF,ng/mL
+Phenols,"4,4'-(1-phenylethylidene)bisphenol",BPAP,ng/mL
+Phenols,"2,2'-bis(4-hydroxyphenyl)butane",BPB,ng/mL
+Phenols,Bisphenol F,BPF,ng/mL
+Phenols,"4,4?-(1,4-Phenylenediisopropylidene)bisphenol",BPP,ng/mL
+Phenols,Bisphenol S,BPS,ng/mL
+Phenols,"4,4'-cyclo-hexylidenebisphenol",BPZ,ng/mL
+Phenols,"2,4-Dichlorophenol",DCP24,ng/mL
+Phenols,"2,5-Dichlorophenol",DCP25,ng/mL
+Phenols,"3,4-Dihydroxy benzoic acid",DHB34,ng/mL
+Phenols,4-Hydroxybenzoic acid,HB4,ng/mL
+Phenols,2-Chlorophenol,MCP2,ng/mL
+Phenols,3-Chlorophenol,MCP3,ng/mL
+Phenols,4-Chlorophenol,MCP4,ng/mL
+Phenols,4-hydroxybenzophenone,OH4BP,ng/mL
+Phenols,Protocatechuic acid ethyl ester,OHETP,ng/mL
+Phenols,"3,4-Dihydroxy-benzoic acid methyl ester",OHMEP,ng/mL
+Phenols,"Oxybenzone (phenyl 13C6, 99%) 100 ug/mL in Acetonitrile",OXB,ng/mL
+Phenols,Pentachlorophenol,PCP,ng/mL
+Phenols,Triclocarban,TCC,ng/mL
+Phenols,"2,4,5-Trichlorophenol",TCP245,ng/mL
+Phenols,"2,4,6-Trichlorophenol",TCP246,ng/mL
+Phenols,Triclosan,TCS,ng/mL
+Phenols,"2,3,4,5-Tetrachlorophenol",TECP2345,ng/mL
+Phenols,"2,3,4,6-Tetrachlorophenol",TECP2346,ng/mL
+Phenols,"2,3,5,6-Tetrachlorophenol",TECP2356,ng/mL
+Phenols,"2,4,5,6-Tetrachlorophenol",TECP2456,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Trace Elements in blood,Magnesium,Mg,ng/mL
+Trace Elements in blood,Manganese,Mn,ng/mL
+Trace Elements in blood,Molybdenum,Mo,ng/mL
+Trace Elements in blood,Nickel,Ni,ng/mL
+Trace Elements in blood,Lead,Pb,µg/dL
+Trace Elements in blood,Selenium,Se,ng/mL
+Trace Elements in blood,Tin,Sn,ng/mL
+Trace Elements in blood,Thallium,Tl,ng/mL
+Trace Elements in blood,Vanadium,V,ng/mL
+Trace Elements in blood,Zinc,Zn,ng/mL
+Trace Elements in blood,Antimony,Sb,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Urinary Dilution Factor,Creatinine,CRE,mg/dL
+Urinary Dilution Factor,Specific Gravity,SG,kg/m3
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Fatty Acids,C14:0,C140,µmol/L
+Fatty Acids,C16:0,C160,µmol/L
+Fatty Acids,C16:1n7,C161N7,µmol/L
+Fatty Acids,C18:0,C180,µmol/L
+Fatty Acids,C18:1n7,C181N7,µmol/L
+Fatty Acids,C18:1n9,C181N9,µmol/L
+Fatty Acids,C18:2n6,C182N6,µmol/L
+Fatty Acids,C18:3n3,C183N3,µmol/L
+Fatty Acids,C18:3n6,C183N6,µmol/L
+Fatty Acids,C20:3n6,C203N6,µmol/L
+Fatty Acids,C20:4n6,C204N6,µmol/L
+Fatty Acids,C20:5n3,C205N3,µmol/L
+Fatty Acids,C22:0,C220,µmol/L
+Fatty Acids,C22:4n6,C224N6,µmol/L
+Fatty Acids,C22:5n3,C225N3,µmol/L
+Fatty Acids,C22:6n3,C226N3,µmol/L
+Fatty Acids,C24:0,C240,µmol/L
+Fatty Acids,C24:1n9,C241N9,µmol/L
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+PAHs,1-hydroxybenz[a]anthacene,BAA1,ng/L
+PAHs,Benzo[a]pyrene tetraol,BAPT,ng/L
+PAHs,1-hydroxybenzo[c]-phenanthrene,BCP1,ng/L
+PAHs,2-hydroxybenzo[c]-phenanthrene,BCP2,ng/L
+PAHs,3-hydroxybenzo[c]-phenanthrene,BCP3,ng/L
+PAHs,1-hydroxychrysene,CHRY1,ng/L
+PAHs,2-hydroxychrysene,CHRY2,ng/L
+PAHs,3-hydroxychrysene,CHRY3,ng/L
+PAHs,4-hydroxychrysene,CHRY4,ng/L
+PAHs,6-hydroxychrysene,CHRY6,ng/L
+PAHs,2-hydroxyfluorene,FLUO2,ng/L
+PAHs,3-hydroxyfluorene,FLUO3,ng/L
+PAHs,9-hydroxyfluorene,FLUO9,ng/L
+PAHs,1-hydroxynaphthalene,NAP1,ng/L
+PAHs,2-hydroxynaphthalene,NAP2,ng/L
+PAHs,1-hydroxyphenanthrene,PHEN1,ng/L
+PAHs,2-hydroxyphenanthrene,PHEN2,ng/L
+PAHs,2-hydroxyphenanthrene + 3-hydroxyphenanthrene,PHEN2PHEN3,ng/L
+PAHs,3-hydroxyphenanthrene,PHEN3,ng/L
+PAHs,4-hydroxyphenanthrene,PHEN4,ng/L
+PAHs,9-hydroxyphenanthrene,PHEN9,ng/L
+PAHs,Phenanthrene tetrol,PHET,pmol/mL
+PAHs,1-hydroxypyrene,PYR1,ng/L
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Phthalates,2-(((7-Carboxy-4-methylheptyl)oxy)carbonyl)cyclohexanecarboxylic Acid,CXMINCH,ng/mL
+Phthalates,mono-benzyl phthalate,MBZP,ng/mL
+Phthalates,mono (5-carboxy-2-ethylpentyl) phthalate (DEHP),MCEPP,ng/mL
+Phthalates,monocyclohexyl phthalate,MCHP,ng/mL
+Phthalates,mono(7-carboxyheptyl)phthalate,MCHPP,ng/mL
+Phthalates,mono-carboxy isononyl phthalate,MCINP,ng/mL
+Phthalates,mono-carboxy isooctyl phthalate,MCIOP,ng/mL
+Phthalates,mono-2-(carboxymethyl) hexyl phthalate,MCMHP,ng/mL
+Phthalates,"Cyclohexane-1,2-dicarboxylic acid mono carboxyisooctyl ester (DINCH)",MCOCH,ng/mL
+Phthalates,mono (6-COOH-2-methylheptyl) phthalate,MCOMHP,ng/mL
+Phthalates,mono (7-COOH-2-methyloctyl) phthalate,MCOMOP,ng/mL
+Phthalates,mono-carboxy octyl phthalate,MCOP,ng/mL
+Phthalates,mono (3-carboxypropyl) phthalate (multiple),MCPP,ng/mL
+Phthalates,mono-(2-ethyl-5-carboxypentyl) phthalate,MECPP,ng/mL
+Phthalates,mono-2-ethyl-5- carboxypentyl terephthalate (DEHTP),MECPTP,ng/mL
+Phthalates,mono (2-ethyl-5-hydroxyhexyl) phthalate,MEHHP,ng/mL
+Phthalates,mono-2-ethyl-5-hydroxyhexyl terephthalate (DEHTP),MEHHTP,ng/mL
+Phthalates,mono ethyl hexyl phthalate,MEHP,ng/mL
+Phthalates,mono-(2-ethylhexyl) terephthalate,MEHTP,ng/mL
+Phthalates,mono (2-ethyl-5-oxohexyl) phthalate,MEOHP,ng/mL
+Phthalates,mono-2-ethyl-5-oxohexylterephthalate,MEOHTP,ng/mL
+Phthalates,monoethyl phthalate (DEP),MEP,ng/mL
+Phthalates,"Cyclohexane-1,2-dicarboxylic acid mono hydroxyisononyl ester (DINCH)",MHNCH,ng/mL
+Phthalates,mono-2-heptyl phthalate,MHPP,ng/mL
+Phthalates,mono-hexyl phthalate,MHXP,ng/mL
+Phthalates,mono-isobutyl phthalate (DiBP),MIBP,ng/mL
+Phthalates,mono-isodecyl phthalate,MIDP,ng/mL
+Phthalates,mono-isononyl phthalate,MINP,ng/mL
+Phthalates,mono-isopropyl phthalate,MIPP,ng/mL
+Phthalates,mono-methyl phthalate,MMP,ng/mL
+Phthalates,"mono-n-butylphthalate (BzBP, DnBP)",MNBP,ng/mL
+Phthalates,monooxoisononyl phthalate (DiNP),MONP,ng/mL
+Phthalates,mono-n-octyl phthalate,MOP,ng/mL
+Phthalates,mono-pentyl phthalate,MPEP,ng/mL
+Phthalates,2-(((Hydroxy-4-methyloctyl)oxy)carbonyl)cyclohexanecarboxylic Acid,OHMINCH,ng/mL
+Phthalates,phthalic acid,PA,ng/mL
+,,,
+Full Chemical Group Name,Full Analyte Name,Analyte Code,Required Units
+Trace Elements in urine,Silver,Ag,ng/mL
+Trace Elements in urine,Aluminum,Al,ng/mL
+Trace Elements in urine,Arsenic,As,ng/mL
+Trace Elements in urine,Barium,Ba,ng/mL
+Trace Elements in urine,Beryllium,Be,ng/mL
+Trace Elements in urine,Bismuth,Bi,ng/mL
+Trace Elements in urine,Cadmium,Cd,ng/mL
+Trace Elements in urine,Cobalt,Co,ng/mL
+Trace Elements in urine,Chromium,Cr,ng/mL
+Trace Elements in urine,Caesium,Cs,ng/mL
+Trace Elements in urine,Copper,Cu,ng/mL
+Trace Elements in urine,Mercury,Hg,ng/mL
+Trace Elements in urine,Iodine,I,ng/mL
+Trace Elements in urine,Lithium,Li,ng/mL
+Trace Elements in urine,Manganese,Mn,ng/mL
+Trace Elements in urine,Molybdenum,Mo,ng/mL
+Trace Elements in urine,Nickel,Ni,ng/mL
+Trace Elements in urine,Lead,Pb,ng/mL
+Trace Elements in urine,Platinum,Pt,ng/mL
+Trace Elements in urine,Antimony,Sb,ng/mL
+Trace Elements in urine,Tin,Sn,ng/mL
+Trace Elements in urine,Strontium,Sr,ng/mL
+Trace Elements in urine,Tellurium,Te,ng/mL
+Trace Elements in urine,Titanium,Ti,ng/mL
+Trace Elements in urine,Thallium,Tl,ng/mL
+Trace Elements in urine,Uranium,U,ng/mL
+Trace Elements in urine,Vanadium,V,ng/mL
+Trace Elements in urine,Tungsten,W,ng/mL
+Trace Elements in urine,Zinc,Zn,c
+,,,

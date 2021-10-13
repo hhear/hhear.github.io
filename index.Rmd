@@ -22,7 +22,7 @@ Currently, the key terms and documentation tabs include resources for:
 
 If you already have a HHEAR-Repository account, click [here](https://hadatac-web.mssm.edu/hadatac/login) to access the Repository. 
 
-If you need to create and register a HHEAR account, click [here](https://hheardatacenter.mssm.edu/login.asp). After creating a HHEAR-portal account and agreeing to the data use agreement, you will receive an email inviting you to register for a HHEAR-Repository account. 
+If you need to create and register a HHEAR account, click [here](https://hheardatacenter.mssm.edu/Register/Terms). After creating a HHEAR-portal account and agreeing to the data use agreement, you will receive an email inviting you to register for a HHEAR-Repository account. 
 
 ### Support or Contact
 
